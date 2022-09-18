@@ -1,4 +1,5 @@
-#몽고DB 맥M1 터미널 명령어 
+#몽고DB 맥M1 터미널 명령어
+ 
 --서버시작
 brew services start mongodb-community@5.0
 
